@@ -14,7 +14,7 @@ Francombe, Jon, 2017: 'IoSR Listening Room Multichannel BRIR dataset', Institute
 For more information, please consult the included documentation.
 
 **********************************************************************
-## License
+## Licence
 ## 
 The IoSR listening room multichannel BRIR dataset is licensed under a Creative Commons Attribution 4.0 International License.
 
