@@ -16,9 +16,9 @@ For more information, please consult the included documentation.
 **********************************************************************
 ## Licence
 ## 
-The IoSR listening room multichannel BRIR dataset is licensed under a Creative Commons Attribution 4.0 International License.
+The IoSR listening room multichannel BRIR dataset is licensed under a Creative Commons Attribution 4.0 International Licence.
 
-You should have received a copy of the license along with this work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+You should have received a copy of the licence along with this work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 
 **********************************************************************
 
